@@ -1,0 +1,11 @@
+.all-question {
+
+    text-align: center;
+    background-color: #f9564f;
+    margin-bottom: 20px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    color: white;
+}

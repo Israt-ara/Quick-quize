@@ -1,0 +1,13 @@
+.header-section {
+    background-color: #f9564f;
+    color: white;
+    padding: 60px;
+}
+
+
+.active {
+    color: white;
+    background-color: rgb(237, 102, 102);
+    padding: 6px;
+    border-radius: 4px;
+}
